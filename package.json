@@ -2,6 +2,7 @@
   "name": "math-whiz-kids",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://stt2111.github.io/MathWhizKidsKH.github.io/"
   "type": "module",
   "scripts": {
     "dev": "vite",
